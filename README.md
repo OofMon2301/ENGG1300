@@ -1,7 +1,7 @@
 # ENGG1300 - Introduction to Electrical Systems
 ### University of Queensland, School of Information Technology and Electrical Engineering
 
-**Semester:** Semester 1, 2023  
+**Semester Taken:** Semester 2, 2023  
 **Location:** St Lucia Campus  
 **Mode:** In Person  
 **Level:** Undergraduate  
